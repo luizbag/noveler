@@ -29,7 +29,7 @@ export default function Home() {
         </main>
 
         <footer className="mt-auto text-white-50">
-          <p>Cover template for <a href="https://getbootstrap.com/" className="text-white">Bootstrap</a>, by <a href="https://twitter.com/mdo" className="text-white">@mdo</a>.</p>
+          <p>&copy; Copyright 2024 Noveler</p>
         </footer>
       </div>
     </div>
